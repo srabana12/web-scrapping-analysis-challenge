@@ -1,6 +1,7 @@
 # web-scrapping-analysis-challenge
 
 Part 1: Scrape Titles and Preview Text from Mars News
+
 Part 2: Scrape and Analyze Mars Weather Data
 
   Analyze your dataset by using Pandas functions to answer the following questions:
